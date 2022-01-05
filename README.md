@@ -6,7 +6,7 @@ __I__ am **Rahul Joon**
 
 I am a **1st** year student at USICT, Delhi. I am currently pursuing **Electronic and Communication Engineering**. I am currently learning new skills like coding, web development and video editing etc.
 
-Follow me on [Youtube](https://www.youtube.com/)
+Follow me on [Youtube](https://www.youtube.com/channel/UCcJqaXEl2lfWaBZ9b98YVMg)
 
 ## Coding Skills
 
