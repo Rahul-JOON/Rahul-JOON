@@ -4,17 +4,25 @@ __I__ am **Rahul Joon**
 
 ## About Me
 
-I am a **1st** year student at USICT, Delhi. I am currently pursuing **Electronic and Communication Engineering**. I am currently learning new skills like coding, web development and video editing etc.
-I am eager learner and active participant in all sorts of events.
+I am a **2nd** year student at USICT, Delhi. I am currently pursuing **Electronic and Communication Engineering**.
+
+I am enthusiastic about:
+- 👨‍💻 competitive coding
+- 📲 Mobile App development,
+- 📽️ video editing 
+- 🎤Public Speaking.
+
+## I am an eager learner, explorer and wildly indecisive.
 
 Follow me on [Youtube](https://www.youtube.com/channel/UCcJqaXEl2lfWaBZ9b98YVMg)
 
-## I am Looking for onsite Internships
+## *I am Open for onsite/online Internships*
 
 ## Coding Skills
 
 <p>
   <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height = "70px"/>
+  <img src = "https://play-lh.googleusercontent.com/5e7z5YCt7fplN4qndpYzpJjYmuzM2WSrfs35KxnEw-Ku1sClHRWHoIDSw3a3YS5WpGcI" height = "70px" />
   <img src = "https://i.redd.it/31b2ii8hchi31.jpg" height = "70px" />
   <img src = "http://www.bobbyberberyan.com/wp-content/uploads/2012/03/HTML5CSS3Logos1.jpg" height = "70px" />
   </p>
@@ -31,6 +39,7 @@ Follow me on [Youtube](https://www.youtube.com/channel/UCcJqaXEl2lfWaBZ9b98YVMg)
    - Communication
    - Leadership 
    - Teamwork
+   - figma
 - I am currently learning
    - CP with C++
    - web dev - backend
@@ -40,6 +49,7 @@ Follow me on [Youtube](https://www.youtube.com/channel/UCcJqaXEl2lfWaBZ9b98YVMg)
    - [My Multiplayer Game from 12th grade](https://github.com/Rahul-JOON/Lost-in-space)
 
 ## How to Reach Me
+
 
 [<img src = "https://cdn.vox-cdn.com/thumbor/8fWz6qpiMYMsZhY4vrc9Vhl5yL8=/0x110:1320x770/fit-in/1200x600/cdn.vox-cdn.com/uploads/chorus_asset/file/21939811/newgmaillogo.jpg" height = "70px" />](https://mail.google.com/mail/u/0/#inbox)
 
