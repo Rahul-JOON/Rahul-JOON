@@ -1,65 +1,33 @@
-### Hi there 👋!
+<h1 align="center">Hi 👋, I'm Rahul Joon</h1>
+<h3 align="center">Passionate Coder | ECE Undergrad Sophomore at USICT</h3>
 
-__I__ am **Rahul Joon**
+<img align="right" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif" alt=" ME coding">
 
-## About Me
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="c" width="40" height="40"/> 
+  </a><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/5e7z5YCt7fplN4qndpYzpJjYmuzM2WSrfs35KxnEw-Ku1sClHRWHoIDSw3a3YS5WpGcI" alt="c" width="40" height="40"/> </a><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-I am a **2nd** year student at USICT, Delhi. I am currently pursuing **Electronic and Communication Engineering**.
+<h3 align="left">📄 My other Skills </h3>
+• Decision Making<br/>
+• Strategy Formation<br/>
+• Teamwork <br/>
+• Communication<br/>
+• Leadership <br/>
 
-I am enthusiastic about:
-- 👨‍💻 competitive coding
-- 📲 Mobile App development,
-- 📽️ video editing 
-- 🎤Public Speaking.
-
-## I am an eager learner, explorer and wildly indecisive.
-
-Follow me on [Youtube](https://www.youtube.com/channel/UCcJqaXEl2lfWaBZ9b98YVMg)
-
-## *I am Open for onsite/online Internships*
-
-## Coding Skills
-
-<p>
-  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height = "70px"/>
-  <img src = "https://play-lh.googleusercontent.com/5e7z5YCt7fplN4qndpYzpJjYmuzM2WSrfs35KxnEw-Ku1sClHRWHoIDSw3a3YS5WpGcI" height = "70px" />
-  <img src = "https://i.redd.it/31b2ii8hchi31.jpg" height = "70px" />
-  <img src = "http://www.bobbyberberyan.com/wp-content/uploads/2012/03/HTML5CSS3Logos1.jpg" height = "70px" />
-  </p>
-  
-## Other Skills
-- Related to Coding
-
-   - **Pygame** framework of Python
-   - **Tkinter** module of Python
-   - front end - web dev
-   - 3 Star Codechefer
-
-- **Soft Skills**
-   - Communication
-   - Leadership 
-   - Teamwork
-   - figma
-- I am currently learning
-   - CP with C++
-   - web dev - backend
-- Projects   
-   - [My Personal Website](https://rahuljoon.me/)
-   - [My Computer Game from 11th grade](https://github.com/Rahul-JOON/Lost-in-space)
-   - [My Multiplayer Game from 12th grade](https://github.com/Rahul-JOON/Lost-in-space)
-
-## How to Reach Me
+<h3 align="left">🌱 I’m currently learning </h3>
+• Open Source Contribution<br/>
+• Computer Science Research
 
 
-[<img src = "https://cdn.vox-cdn.com/thumbor/8fWz6qpiMYMsZhY4vrc9Vhl5yL8=/0x110:1320x770/fit-in/1200x600/cdn.vox-cdn.com/uploads/chorus_asset/file/21939811/newgmaillogo.jpg" height = "70px" />](https://mail.google.com/mail/u/0/#inbox)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/rahul-joon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/siddhaant-pahuja-986a0622a/" height="30" width="40" /></a>
+</p>
+Email : **rahuljoon16@gmail.com**
+</p>  
 
-[<img src = "https://www.kindpng.com/picc/m/363-3632986_logo-linkedin-png-rond-transparent-png.png" height = "70px" />](https://www.linkedin.com/in/rahul-joon/)
-  
-  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahul-JOON)](https://github.com/anuraghazra/github-readme-stats)
 
-   
-   
 <!--
 **Rahul-JOON/Rahul-JOON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
