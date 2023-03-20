@@ -26,8 +26,6 @@
 Email : **rahuljoon16@gmail.com**
 </p>  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahul-JOON)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **Rahul-JOON/Rahul-JOON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
